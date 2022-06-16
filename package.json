@@ -1,0 +1,22 @@
+{
+  "name": "login-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaki/Login-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbaki/Login-List/issues"
+  },
+  "homepage": "https://github.com/pbaki/Login-List#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
